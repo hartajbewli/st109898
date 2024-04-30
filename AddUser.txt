@@ -1,0 +1,31 @@
+''*****************************************************************************
+
+'' ABC Automated Testing
+'' Copyright (c) 2024 ABC
+'' All Rights Reserved Worldwide
+'' Unauthorized Duplication or Distribution Prohibited
+'' *****************************************************************************
+'' FILENAME: adduser7
+'' *****************************************************************************
+'' ABOUT THIS FILE 
+
+'' AUTHOR IDENTITY:
+
+'' Initials		Name/Company
+'' --------		-----------------------------------------
+'' rw 			Rick Wagonner ABC INC
+
+'' REVISION HISTORY:
+
+'' Date/Initials	Comments
+'' ---------		-------------------------------
+
+'' 01/10/2024  rw	Created for LoanApp 3.1
+
+
+
+''SCRIPT
+
+AddUser "user", "password123", "John", "Smith", "ABC", "(416)456-0000", "jsmith@sample.com", "Loan Officer"
+AddUser "nsmith", "password01", "Nancy", "Smith", "ABC", "(416)437-1234", "nsmith@sample.com", "Loan Officer"
+
