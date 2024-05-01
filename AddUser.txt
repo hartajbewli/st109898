@@ -30,4 +30,5 @@ AddUser "user", "password123", "John", "Smith", "ABC", "(416)456-0000", "jsmith@
 AddUser "nsmith", "password01", "Nancy", "Smith", "ABC", "(416)437-1234", "nsmith@sample.com", "Loan Officer"
 AddUser "", "password", "Ron", "Smith", "ABC", "416-456-0000", "rsmith@sample.com"
 AddUser "dsmith", "password", "Peter", "Smith", "ABC", "416-456-0000", "jsmith@sample.com"
+AddUser "jsmith", "password", "John", "Smith", "ABC", "416-456-0000", "jsmithsample.com"
 
